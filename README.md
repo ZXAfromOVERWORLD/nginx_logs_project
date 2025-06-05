@@ -7,9 +7,9 @@ Top 5 most requested paths \
 Top 5 response status codes \
 Top 5 user agents \
 
-'''
+```
   bash 
   ./info.sh nginx-access.log
-'''
+```
 
  
