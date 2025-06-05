@@ -1,5 +1,5 @@
 # Log Analyzer
- This is a log analyzer project which takes in log in the nginx/apache logs format and sorts them on this following basis \
+ This is a log analyzer project which takes in log in the nginx/apache logs format and sorts them on this following basis 
 
 # Analyze
 Top 5 IP addresses with the most requests \
