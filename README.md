@@ -1,6 +1,6 @@
 # Log Analyzer
  This is a log analyzer project which takes in log in the nginx/apache logs format and sorts them on this following basis \
- Project [URL](https://github.com/ZXAfromOVERWORLD/nginx_logs_project)
+ Project URL https://github.com/ZXAfromOVERWORLD/nginx_logs_project
 
 # Analyze
 Top 5 IP addresses with the most requests \
